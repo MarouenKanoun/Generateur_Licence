@@ -7,3 +7,12 @@ C:\Users\Marouen\Desktop\GEL\GenerateurLicences.Localisation\obj\Debug\Generateu
 C:\Users\Marouen\Desktop\GEL\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.csproj.CoreCompileInputs.cache
 C:\Users\Marouen\Desktop\GEL\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.dll
 C:\Users\Marouen\Desktop\GEL\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.pdb
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\bin\Debug\GenerateurLicences.Localisation.dll.config
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\bin\Debug\GenerateurLicences.Localisation.dll
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\bin\Debug\GenerateurLicences.Localisation.pdb
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.csprojResolveAssemblyReference.cache
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.MessagesSystem.resources
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.csproj.GenerateResource.Cache
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.csproj.CoreCompileInputs.cache
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.dll
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences.Localisation\obj\Debug\GenerateurLicences.Localisation.pdb

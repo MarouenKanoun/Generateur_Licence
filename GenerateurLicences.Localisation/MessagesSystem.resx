@@ -18,11 +18,11 @@
     <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
     <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
     <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="Color, System.Drawing">Blue</data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
     <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
         <value>[base64 mime encoded serialized .NET Framework object]</value>
     </data>
-    <data name="Icon1" type="Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
@@ -169,7 +169,7 @@
     <value>Modification sauvgarder avec succée !</value>
   </data>
   <data name="NomEmpty" xml:space="preserve">
-    <value>Le Champs Nom Administrateur est vide veuillez le renseigné svp</value>
+    <value>You forgot to write the administrator's name</value>
   </data>
   <data name="PasswordEmpty" xml:space="preserve">
     <value>Le Champs mot de passe est vide veuillez le renseigné svp</value>
