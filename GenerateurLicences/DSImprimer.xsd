@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSImprimer" targetNamespace="http://tempuri.org/DSImprimer.xsd" xmlns:mstns="http://tempuri.org/DSImprimer.xsd" xmlns="http://tempuri.org/DSImprimer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSImprimer" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSImprimer" msprop:Generator_UserDSName="DSImprimer">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTImprimer" msprop:Generator_TableClassName="DTImprimerDataTable" msprop:Generator_TableVarName="tableDTImprimer" msprop:Generator_TablePropName="DTImprimer" msprop:Generator_RowDeletingName="DTImprimerRowDeleting" msprop:Generator_RowChangingName="DTImprimerRowChanging" msprop:Generator_RowEvHandlerName="DTImprimerRowChangeEventHandler" msprop:Generator_RowDeletedName="DTImprimerRowDeleted" msprop:Generator_UserTableName="DTImprimer" msprop:Generator_RowChangedName="DTImprimerRowChanged" msprop:Generator_RowEvArgName="DTImprimerRowChangeEvent" msprop:Generator_RowClassName="DTImprimerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClName" msprop:Generator_ColumnVarNameInTable="columnClName" msprop:Generator_ColumnPropNameInRow="ClName" msprop:Generator_ColumnPropNameInTable="ClNameColumn" msprop:Generator_UserColumnName="ClName" type="xs:string" minOccurs="0" />
+              <xs:element name="ClZipe" msprop:Generator_ColumnVarNameInTable="columnClZipe" msprop:Generator_ColumnPropNameInRow="ClZipe" msprop:Generator_ColumnPropNameInTable="ClZipeColumn" msprop:Generator_UserColumnName="ClZipe" type="xs:string" minOccurs="0" />
+              <xs:element name="ClCode" msprop:Generator_ColumnVarNameInTable="columnClCode" msprop:Generator_ColumnPropNameInRow="ClCode" msprop:Generator_ColumnPropNameInTable="ClCodeColumn" msprop:Generator_UserColumnName="ClCode" type="xs:string" minOccurs="0" />
+              <xs:element name="LicType" msprop:Generator_ColumnVarNameInTable="columnLicType" msprop:Generator_ColumnPropNameInRow="LicType" msprop:Generator_ColumnPropNameInTable="LicTypeColumn" msprop:Generator_UserColumnName="LicType" type="xs:string" minOccurs="0" />
+              <xs:element name="LicStart" msprop:Generator_ColumnVarNameInTable="columnLicStart" msprop:Generator_ColumnPropNameInRow="LicStart" msprop:Generator_ColumnPropNameInTable="LicStartColumn" msprop:Generator_UserColumnName="LicStart" type="xs:string" minOccurs="0" />
+              <xs:element name="LicEnd" msprop:Generator_ColumnVarNameInTable="columnLicEnd" msprop:Generator_ColumnPropNameInRow="LicEnd" msprop:Generator_ColumnPropNameInTable="LicEndColumn" msprop:Generator_UserColumnName="LicEnd" type="xs:string" minOccurs="0" />
+              <xs:element name="Liclong" msprop:Generator_ColumnVarNameInTable="columnLiclong" msprop:Generator_ColumnPropNameInRow="Liclong" msprop:Generator_ColumnPropNameInTable="LiclongColumn" msprop:Generator_UserColumnName="Liclong" type="xs:string" minOccurs="0" />
+              <xs:element name="LicName" msprop:Generator_ColumnVarNameInTable="columnLicName" msprop:Generator_ColumnPropNameInRow="LicName" msprop:Generator_ColumnPropNameInTable="LicNameColumn" msprop:Generator_UserColumnName="LicName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
