@@ -163,5 +163,15 @@ namespace GenerateurLicences
                 LicenceDelaisManager.CodeCouleurDetails(JourRestant);
             }
         }
+
+        private void NumeroLicnceDetails_EditValueChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void JourRestant_EditValueChanged(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

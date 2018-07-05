@@ -394,3 +394,7 @@ C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\Gene
 C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\GenerateurLicences.csproj.CoreCompileInputs.cache
 C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\GenerateurLicences.exe
 C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\GenerateurLicences.pdb
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\bin\Debug\GenerateurLicences.exe.manifest
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\bin\Debug\GenerateurLicences.application
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\GenerateurLicences.exe.manifest
+C:\Users\Marouen\Desktop\GL\Generateur_Licence\GenerateurLicences\obj\Debug\GenerateurLicences.application

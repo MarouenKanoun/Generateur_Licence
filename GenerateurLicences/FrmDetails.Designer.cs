@@ -219,6 +219,7 @@ namespace GenerateurLicences
             this.NumeroLicnceDetails.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.NumeroLicnceDetails.Size = new System.Drawing.Size(294, 30);
             this.NumeroLicnceDetails.TabIndex = 27;
+            this.NumeroLicnceDetails.EditValueChanged += new System.EventHandler(this.NumeroLicnceDetails_EditValueChanged);
             // 
             // JourRestant
             // 
@@ -231,6 +232,7 @@ namespace GenerateurLicences
             this.JourRestant.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.JourRestant.Size = new System.Drawing.Size(294, 30);
             this.JourRestant.TabIndex = 30;
+            this.JourRestant.EditValueChanged += new System.EventHandler(this.JourRestant_EditValueChanged);
             // 
             // labelControl1
             // 
